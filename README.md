@@ -1,6 +1,6 @@
 Live Website: https://sad-leavitt-b56e2b.netlify.app/
 
-React Facebook clone, personallearning project. 
+React Facebook clone, personal learning project. 
 
 Includes Google Auth sign in & the ability to submit posts (which are stored on a firestore database).
 
