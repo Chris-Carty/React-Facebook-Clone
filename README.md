@@ -1,3 +1,11 @@
+Live Website: https://sad-leavitt-b56e2b.netlify.app/
+
+React Facebook clone, personallearning project. 
+
+Includes Google Auth sign in & the ability to submit posts (which are stored on a firestore database).
+
+Built with React Context API.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
